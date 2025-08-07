@@ -116,8 +116,8 @@ tail -f storage/logs/laravel.log
 ## 🙋‍♂️ Author
 
 **Zohaib Ali**  
-GitHub: [github.com/your-username](https://github.com/zohaibali123-tech)  
-LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/zohaib-baloch)
+GitHub: [github.com/zohaibali123-tech](https://github.com/zohaibali123-tech)  
+LinkedIn: [linkedin.com/in/zohaib-baloch](https://linkedin.com/in/zohaib-baloch)
 
 ---
 
